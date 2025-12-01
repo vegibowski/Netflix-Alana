@@ -109,7 +109,7 @@ li:hover .perfil__texto {
 }
 
 .container__background {
-    background-image: url(img/Background-principal.png);
+    background-image: url(img/Background-principal.jpeg);
     background-repeat: repeat-x;
     padding-bottom: 15%;
 }
@@ -316,4 +316,5 @@ li:hover .perfil__texto {
 
 .cabecario__filme {
     position: relative;
+
 }
