@@ -320,7 +320,7 @@ li:hover .perfil__texto {
 }
 /* Background principal: mobile-first */
 .container__background {
-  background-image: url('img/Background-principalMobile.jpeg');
+  background-image: url('img/Background-principal.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -336,3 +336,4 @@ li:hover .perfil__texto {
     background-position: center;
   }
 }
+
