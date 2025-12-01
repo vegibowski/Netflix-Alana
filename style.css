@@ -318,3 +318,21 @@ li:hover .perfil__texto {
     position: relative;
 
 }
+/* Background principal: mobile-first */
+.container__background {
+  background-image: url('img/Background-principalMobile.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 15%;
+}
+
+/* Para ecrãs maiores, usa a versão desktop */
+@media (min-width: 601px) {
+  .container__background {
+    background-image: url('img/Background-principal.jpeg');
+    background-repeat: repeat-x; /* se preferires repetir no eixo x como antes */
+    background-size: cover;
+    background-position: center;
+  }
+}
