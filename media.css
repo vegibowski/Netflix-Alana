@@ -113,7 +113,7 @@
     }
 
     .container__background {
-        background-image: url(img/Background-principalMobile.png);
+        background-image: url(img/Background-principalMobile.jpeg);
     }
 
     .container__texto__mobile {
@@ -151,4 +151,5 @@
     #btnright {
         display: none;
     }
+
 }
